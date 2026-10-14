@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node.js
+frontend/node_modules/
+frontend/.next/
+
+# Environment variables and secrets
+frontend/.env.local
+backend/.env
+.env
+
+# Other
+.DS_Store
